@@ -1,4 +1,4 @@
-# Programmed by Omar Mohamed
+
 
 import cv2
 import mediapipe as mp
@@ -130,4 +130,5 @@ while True:
 
 
 cap.release()
+
 cv2.destroyAllWindows()
